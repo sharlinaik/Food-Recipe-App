@@ -6,8 +6,8 @@ A simple Notes App built with React that allows users to add, edit, and delete n
   - Delete Notes: Users can remove notes they no longer need.
 # Screenshots
 <div align="center">
-    <img width="500" height="200" src="Screen1.png"> &nbsp;&nbsp; 
-    <img width="500"src="Screen2.png"> 
+    <img width="500" height="500" src="Screen1.png"> &nbsp;&nbsp; 
+    <img width="500" height="500" src="Screen2.png"> 
 </div>
 
 
