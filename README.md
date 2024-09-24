@@ -9,5 +9,8 @@ A simple Notes App built with React that allows users to add, edit, and delete n
     <img width="500" height="250" src="Screen1.png"> &nbsp;&nbsp; 
     <img width="500" height="250" src="Screen2.png"> 
 </div>
+# Technologies Used
+  - React.js: Frontend JavaScript library for building user interfaces.
+  - CSS: For styling the app.
 
 
