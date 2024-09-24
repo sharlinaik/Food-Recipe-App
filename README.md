@@ -17,7 +17,7 @@ A simple Notes App built with React that allows users to add, edit, and delete n
 </div>
 
 # Installation
-# Clone the Project
+## Clone the Project
 ``` bash
 git clone https://github.com/sharlinaik/Notes-App.git
 cd Notes-App
